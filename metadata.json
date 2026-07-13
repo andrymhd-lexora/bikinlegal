@@ -1,0 +1,8 @@
+{
+  "name": "BikinLegal.com",
+  "description": "Interactive business legal landing page with a Gemini AI Legal Advisor, pricing calculators, license checklists, and WhatsApp support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
